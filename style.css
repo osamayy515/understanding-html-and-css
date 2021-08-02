@@ -1,0 +1,20 @@
+.box1 {
+    background-color: gold;
+    width: 500px;
+    height: 400px;
+}
+ .box2 {
+     background-color: green;
+     width: 400px;
+     height: 250px;
+ }
+ .box3 {
+    background-color: red;
+     width: 120px;
+     height: 300px;
+ }
+ .box4 {
+    background-color: purple;
+     width: 300px;
+     height: 120px;
+ }
