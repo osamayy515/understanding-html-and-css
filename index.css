@@ -1,5 +1,7 @@
 body{
     background-color: #2F3035;
+    background-image: url(images/yummy-pizza-wallpaper-hd.jpg);
+    background-size: cover;
 }
 .container{
     margin-left: auto;
